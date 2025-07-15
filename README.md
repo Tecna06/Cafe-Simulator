@@ -12,5 +12,5 @@ A simple Python  program to take cafe orders, showing a menu, allowing users to 
 ## How to Run
 
 1. Make sure Python 3 is installed  
-2. Save the script as `cafe_ordering.py`  
+2. Save the file as `cafe_ordering.py`  
 3. Run the program in the terminal:
